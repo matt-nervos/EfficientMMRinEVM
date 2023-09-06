@@ -43,7 +43,7 @@ Additionally, the topology of the MMR is described by the binary representation 
 
 _State storage:_ The max number of peaks grows logarithmically with the number of elements in the MMR.
 
-_State read:_ The appropriate state to be read from storage to memory is known upfront, no further state reads are required.
+_State read:_ The appropriate state to be read to memory is known upfront, no further state reads are required.
 
 _Computation:_ Keccak and moving values in memory.
 
