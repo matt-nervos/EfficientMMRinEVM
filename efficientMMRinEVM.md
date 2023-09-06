@@ -13,6 +13,7 @@ A step-by-step demonstration of building an MMR can be found [here](https://talk
 <br>
 
 **Binary bits and peaks** 
+<br>
 Because the process of building MMR peaks matches the process of binary addition, their topology matches up with the binary representation of the number of elements in the MMR. There is a MMR peak at each position with a bit set.
 
 For example:
